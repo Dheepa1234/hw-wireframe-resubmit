@@ -63,7 +63,8 @@ background position: 0px 0px;
   
 section {
   
-  border: 3px solid;
+  border: 0px 
+  margin: 0 auto;
   height: 495px;
   margin: 10px;
   padding: 10px;
@@ -77,13 +78,12 @@ section {
   float: left;
 }
 
-article {
+.article {
 
   
-  border: 3px solid;
+  border: 0px solid;
+  margin: 0 auto;
   height: 495px;
-  margin: 10px;
-  padding: 10px;
   width: 495px;
     
   background: '#ebebeb';
@@ -102,8 +102,7 @@ article {
 
 .headings {
     padding: 20px 0;
-    margin: 0;
-    margin-bottom: 20px;
+    margin: 0 auto;
     font-size: 1em;
     color: #eee;
     text-align: center;
@@ -113,7 +112,7 @@ article {
 
 aside {  
   float: right;
-  margin: 0
+  margin: 0 auto;
   padding: 1em
 
   text-align: center;
