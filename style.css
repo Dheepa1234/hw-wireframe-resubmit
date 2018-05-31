@@ -1,0 +1,124 @@
+/**CSS Document*/
+
+/*default my tags*/
+
+.wrapper {
+
+background-color: #A9A9A9
+
+body, div, header, section, headings, paragraph, aside, footer { 
+
+margin: 0px;
+padding: 0px;
+width: 960 px;
+height: 960 px}
+
+}
+
+
+body  {
+
+ font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+ color: #777;
+ background: '#777';
+ width: 960px;
+ font-size: 18px;
+
+}
+
+header, nav, footer {
+
+  padding: 1em;
+  color: white;
+  background-color: black;
+  clear: left;
+  text-align: center;
+  height: 200px
+  width: 200px
+
+
+border: 6px solid 
+height: 100px;
+margin: 20px;
+ 
+  
+background: #ebebeb;
+  
+border-style: solid;
+border-width: medium;
+  
+text-align: center;
+
+}
+
+.wrapper {
+
+width: 960px;
+margin: 0px auto:
+background position: 0px 0px;
+
+ }
+
+/* This is a parent container */
+  
+section {
+  
+  border: 3px solid;
+  height: 495px;
+  margin: 10px;
+  padding: 10px;
+  width: 495px;
+    
+  background: '#ebebeb';
+  
+  border-style: solid;
+  border-width: medium;
+  
+  float: left;
+}
+
+article {
+
+  
+  border: 3px solid;
+  height: 495px;
+  margin: 10px;
+  padding: 10px;
+  width: 495px;
+    
+  background: '#ebebeb';
+  
+  border-style: solid;
+  border-width: medium;
+  
+  float: left;
+
+  padding: 1em;
+  width 495 px;
+  overflow: hidden;
+  
+  float: right;
+}
+
+.headings {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 1em;
+    color: #eee;
+    text-align: center;
+  }
+  
+
+
+aside {  
+  float: right;
+  margin: 0
+  padding: 1em
+
+  text-align: center;
+  
+}
+
+
+
