@@ -66,8 +66,7 @@ section {
   border: 0px 
   margin: 0 auto;
   height: 495px;
-  margin: 10px;
-  padding: 10px;
+  padding: 1 em;
   width: 495px;
     
   background: '#ebebeb';
@@ -97,14 +96,14 @@ section {
   width 495 px;
   overflow: hidden;
   
-  float: right;
+   
 }
 
 .headings {
     padding: 20px 0;
     margin: 0 auto;
     font-size: 1em;
-    color: #eee;
+    color: #ebebeb;
     text-align: center;
   }
   
